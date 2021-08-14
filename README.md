@@ -17,9 +17,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀 Languages and Tools:
 
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/> <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/>
-
-<code><img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white%22"/></code> <img src="https://img.shields.io/badge/express-fefefe?style=for-the-badge&logo=express&logoColor=000"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/> <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> 
 <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/> 
