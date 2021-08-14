@@ -6,7 +6,7 @@
 ### Let's Connect :Link:
 
 <p align="center">
-<a href=https://www.linkedin.com/in/amdy-diop-b88177165" target="_blank" alt="My LinkedIn"> 
+<a href="https://www.linkedin.com/in/amdy-diop-b88177165" target="_blank" alt="My LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/ouznoreyni221" target="_blank" alt="Follow Me on Twitter"> 
