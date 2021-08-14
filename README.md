@@ -24,7 +24,6 @@
 
 <code><img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white%22"/></code> <img src="https://img.shields.io/badge/express-fefefe?style=for-the-badge&logo=express&logoColor=000"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
 
-##  Frontend: 
 
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-fefefe?style=for-the-badge&logo=bootstrap&logoColor=blue" /> <img src="https://img.shields.io/badge/tailwind-fefefe?style=for-the-badge&logo=tailwind&logoColor=blue" />
 
