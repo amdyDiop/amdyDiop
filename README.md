@@ -2,21 +2,17 @@
 
 ## Hi there, i'm AMDY DIOP. I am a Java and php developer  from Senegal 🇸🇳 Dakar, SENEGAL, 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 
-
-### Let's Connect :coffee:
+### Let's Connect :Link:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ousmane-diop-5792a5170" target="_blank" alt="My LinkedIn"> 
+<a href=https://www.linkedin.com/in/amdy-diop-b88177165" target="_blank" alt="My LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/ouznoreyni221" target="_blank" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:ousmanediop1297@gmail.com" target="_blank" alt="Send me a email"> 
+<a href="mailto:amdymila@gmail.com" target="_blank" alt="Send me a email"> 
     <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=yellow" />
 </a>
 </p>
