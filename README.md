@@ -9,11 +9,8 @@
 <a href="https://www.linkedin.com/in/amdy-diop-b88177165" target="_blank" alt="My LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/ouznoreyni221" target="_blank" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 <a href="mailto:amdymila@gmail.com" target="_blank" alt="Send me a email"> 
-    <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 </p>
 
