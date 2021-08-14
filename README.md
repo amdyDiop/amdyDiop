@@ -1,9 +1,10 @@
 
 
-## Hi there, i'm AMDY DIOP,  from Senegal 🇸🇳 Dakar, SENEGAL, 
+## Hi there, i'm AMDY DIOP. I am a Java and php developer  from Senegal 🇸🇳 Dakar, SENEGAL, 
 
-A fullstack web developer specializing in mostly JS and Java  , but also write Python , PHP and some other stuff.I'm always looking for new opportunities to learn and to solve new problems
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 
 ### Let's Connect :coffee:
