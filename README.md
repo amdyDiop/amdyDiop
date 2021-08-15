@@ -85,11 +85,12 @@
 
 
  my github stats
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP" /><p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github.com/amdyDiop/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=amdyDiop&&show_icons=true&theme=radical"/>
   </a>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amdyDiop&layout=compact)][github]
+
 
 </p>   
  <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
