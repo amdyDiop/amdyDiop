@@ -87,7 +87,7 @@
  my github stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP" />
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amdyDiop&layout=compact)][github]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdyDiop&hide=TeX&layout=compact)
 
 
 </p>   
