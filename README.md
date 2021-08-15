@@ -29,6 +29,14 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdyDiop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#30](https://github.com/DenverCoder1/give-and-take-bot/pull/30) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+2. 🎉 Merged PR [#34](https://github.com/DenverCoder1/weasley-chess-bot/pull/34) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+3. ❗️ Reopened issue [#29](https://github.com/DenverCoder1/github-readme-streak-stats/issues/29) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#29](https://github.com/DenverCoder1/github-readme-streak-stats/issues/29) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#23](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/23) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+<!--END_SECTION:activity-->  
+   
  <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
   </p>
 
