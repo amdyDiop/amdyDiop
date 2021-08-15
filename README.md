@@ -84,9 +84,9 @@
 -->
 
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdyDiop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP" />
    
  <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
   </p>
