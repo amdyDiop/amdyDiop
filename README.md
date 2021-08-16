@@ -85,11 +85,8 @@
 
 
  my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP" />
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdyDiop&hide=TeX&layout=compact)
-
-
 </p>   
  <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
   </p>
