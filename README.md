@@ -83,5 +83,5 @@
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
 -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=gotham" alt="amdyDIOP"/> <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>   
