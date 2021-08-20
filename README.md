@@ -82,8 +82,11 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+ <br> 
+  
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+
 
   </td>
   <td width="50%">
@@ -92,6 +95,7 @@
    
     ![Stats Overview](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)
   
+    
     </a>
 <br>
 </p>
