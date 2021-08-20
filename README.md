@@ -81,7 +81,7 @@
  <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&count_private=true&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&count_private=true&theme=tokyonight" />
-   <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+   <a href='https://github.com/amdyDiop/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
