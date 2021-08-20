@@ -81,8 +81,8 @@
  <p align="center">
    
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&count_private=true&theme=tokyonight" />
 </p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admdyDiop&layout=compact&count_private=true&theme=gruvbox" />
 <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="100%" height="320" />
