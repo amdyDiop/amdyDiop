@@ -79,11 +79,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
  <p align="center">
-   
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&count_private=true&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&count_private=true&theme=tokyonight" />
 </p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admdyDiop&layout=compact&count_private=true&theme=gruvbox" />
-<img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="100%" height="320" />
 </p>   
