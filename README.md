@@ -79,10 +79,11 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
  <p align="center">
-   <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-![Most Used Languages](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
-</a>
-  <!--img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" /-->
+   
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&theme=tokyonight" />
 </p>
 
