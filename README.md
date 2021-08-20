@@ -83,8 +83,8 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&count_private=true&theme=tokyonight" />
 <a href='https://github.com/amdyDiop/github-stats-transparent'>
     
-  ![Stats Overview ](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)
-  ![Most Used Languages](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
+  ![Stats Overview width="49%" ](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)
+  ![Most Used Languages width="49%"](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
   
 </a>
 </p>
