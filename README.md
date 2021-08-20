@@ -84,7 +84,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amdyDiop&theme=tokyonight" />
 </p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&count_private=true&theme=gruvbox" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admdyDiop&layout=compact&count_private=true&theme=gruvbox" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amdyDiop&show_icons=true&theme=tokyonight" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admdyDiop&layout=compact&count_private=true&theme=gruvbox" />
 <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="100%" height="320" />
 </p>   
