@@ -80,8 +80,9 @@
 </p>
 
 <a href='https://github.com/amdyDiop/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)![Most Used Languages](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)
+ ![Most Used Languages](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
 </a>
 <p>
- <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="100" height="320" />
 </p>   
