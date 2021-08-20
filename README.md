@@ -78,34 +78,11 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-<p> 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
- <br> 
-  
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
-
-
-  </td>
-  <td width="50%">
-
   <a href='https://github.com/amdyDiop/github-stats-transparent'  width="50%">
-   
-    ![Stats Overview](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/overview.svg)
-  
     
-    </a>
-<br>
-</p>
-  </td>
-  </table>
-
-  <a href='https://github.com/amdyDiop/github-stats-transparent'  width="50%">
     ![Most Used Languages](https://raw.githubusercontent.com/amdyDiop/github-stats-transparent/output/generated/languages.svg)
+  
   </a>
-</p> 
 <p>
  <img  alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="100%" height="320" />
 </p>   
