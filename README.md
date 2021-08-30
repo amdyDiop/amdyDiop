@@ -2,7 +2,6 @@
 
 ## Hi there, i'm AMDY DIOP. I am a Java and php developer  from  🇸🇳 Dakar, Senegal, 
 
-
 ### Let's Connect :Link:
 
 <p align="center">
